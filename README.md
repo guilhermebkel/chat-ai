@@ -19,7 +19,7 @@ That's a simple chat integrated with OpenAI API with help of Vercel AI SDK.
 - ReactJS
 - Vercel AI SDK
 - OpenAI API
-- shadcn/ui
+- shadcn-ui
 - Tailwind
 
 ## 🚀 Getting started
