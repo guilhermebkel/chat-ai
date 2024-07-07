@@ -22,7 +22,7 @@ export function Chat (props: ChatProps) {
 					Chat AI
 				</CardTitle>
 				<CardDescription>
-					Made with Vercel AI SDK + Open AI.
+					Made with Vercel AI SDK + OpenAI.
 				</CardDescription>
 			</CardHeader>
 			<CardContent>
