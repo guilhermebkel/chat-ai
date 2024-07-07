@@ -25,13 +25,8 @@ That's a simple chat integrated with OpenAI API with help of Vercel AI SDK.
 ## 🚀 Getting started
 
 1. Clone this repository
-2. Run the following command
+2. Run the following commands
 ```sh
-# Install all shared dependencies
-# Install dependencies for api
-# Install dependencies for client
-# Link all packages dependencies together
-# Add env file for api
-# Add env file for client
+npm install
 npm run dev
 ```
