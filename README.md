@@ -10,7 +10,7 @@
 
 ## 📌 Overview
 
-That's a simple chat integrated with OpenAI API with help of Vercel AI SDK. 
+That's a simple LLM chat integrated with OpenAI API with help of Vercel AI SDK. 
 
 ## 🔧 Technologies
 
