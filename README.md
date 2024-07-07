@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  Chat AI 🤖
+  Chat LLM AI 🤖
 </h3>
 
 
